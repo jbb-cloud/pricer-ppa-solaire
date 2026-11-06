@@ -1,0 +1,12 @@
+contrat,cote,moyenne,ecart_type_erreur,var_95_erreur,cvar_95_erreur,var_95_sans,correlation_baseload
+"Spot, sans contrat",vendeur,89097.86,32340.35,44523.04,51195.40,40687.44,0.98
+Pay-as-produced,vendeur,89097.86,2496.13,5428.87,5428.87,5428.87,0.22
+Plancher à 0 €/MWh,vendeur,89097.86,34737.66,48119.09,55475.92,44200.36,0.98
+Plancher à 10 €/MWh,vendeur,89097.86,34429.30,47565.75,54802.43,43486.27,0.98
+Plancher à 20 €/MWh,vendeur,89097.86,34003.35,46794.59,53849.83,42750.98,0.99
+Ruban,vendeur,89097.86,24552.80,45122.37,61181.78,36097.71,-0.95
+Pay-as-produced,acheteur,-0.00,31694.74,43644.19,50089.87,39133.68,0.98
+Plancher à 0 €/MWh,acheteur,-0.00,4001.52,7227.41,10103.27,7227.41,-0.71
+Plancher à 10 €/MWh,acheteur,-0.00,3952.34,7204.11,9897.45,7204.11,-0.64
+Plancher à 20 €/MWh,acheteur,-0.00,3868.80,6975.01,9550.09,6975.01,-0.54
+Ruban,acheteur,-0.00,47575.89,68627.39,80418.89,68627.39,1.00

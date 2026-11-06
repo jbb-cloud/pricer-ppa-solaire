@@ -1,0 +1,4 @@
+scenario,parc_gw,coefficient,prix_v2,prix_v1_courbe,prix_implicite,prix_persistance,taux_implicite_v2,tc_t2,tc_t3,revenu_v2_mwc
+Rythme de la PPE3,37.6000,1.1569,74.5655,68.0783,83.9822,73.9516,0.6082,0.3509,0.3675,111823.8501
+Rythme récent,40.0000,1.2308,70.5905,63.6352,82.9845,73.9516,0.5757,0.2962,0.3102,105862.7143
+Accélération,42.0000,1.2923,67.2780,59.9327,82.1530,73.9516,0.5487,0.2505,0.2624,100895.1011
